@@ -1,0 +1,10 @@
+streamlit>=1.66.1
+pandas
+numpy
+scikit-learn
+matplotlib
+requests
+sqlalchemy
+folium
+streamlit-geolocation
+# pymysql   (only if you use MySQL)
